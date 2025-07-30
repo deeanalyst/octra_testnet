@@ -85,7 +85,7 @@ cp ~/ocs01-test/target/release/ocs01-test ~/ocs01-test/
 `NB`: These three (3) files must be in the same directory (~/ocs01-test/) for them to work together.
 
 Confirm using the command `ls -l` or `ls -a` while in the /ocs01-test/.
-If you are not sure you are in the folder run this command `cd && cd ocs01-test then run `ls -l` or `ls -a`.
+If you are not sure you are in the folder run this command `cd && cd ocs01-test` then run `ls -l` or `ls -a`.
 
 Now that you are sure all three (3) files are in the same folder, let's start testing task 3.
 While still in `/ocs01-test/` folder or directory, run this `start` command
