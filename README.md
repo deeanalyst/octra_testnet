@@ -39,6 +39,7 @@ pip install -r requirements.txt
 ### Task 3
 Install Rust if you don't already have it.
 ```
+cd ~
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
 ```
