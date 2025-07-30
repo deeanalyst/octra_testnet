@@ -109,7 +109,11 @@ If yours has worked, now get testing 🔥🔥🔥
 #### Troubleshooting
 If you get the error in the image below, run the command under the image.
 <img width="400" height="300" alt="build_error" src="https://github.com/user-attachments/assets/d5ba455e-9a07-48b6-b978-48394ff504ad" />
-
+```
+sudo apt update
+sudo apt install pkg-config libssl-dev
+```
+> After this, you can build again using `cargo build --release`
 ---
 
 This task `3` helps you to secure the reward or main quest of this test phase. `3` gives you the 1 test token allocated once to any address that does this task.
