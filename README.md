@@ -63,7 +63,7 @@ git clone https://github.com/octra-labs/ocs01-test.git
 cd ocs01-test
 cargo build --release
 ```
->`Once it is done, you will get a `Finished` line and the line where you can paste commands returns so you can continue with the guide.`
+> Once it is done, you will get a `Finished` line and the line where you can paste commands returns so you can continue with the guide.
 
 ### Setup the files to test
 Copy the Contract interface
