@@ -22,7 +22,7 @@ git stash
 git pull origin main
 ```
 
-<img width="400" height="100" alt="Screenshot 2025-07-30 100639" src="https://github.com/user-attachments/assets/bb8789a1-1b37-4aca-92a7-19117d53dc42" />
+<img width="400" height="100" alt="pre-client updated" src="https://github.com/user-attachments/assets/bb8789a1-1b37-4aca-92a7-19117d53dc42" />
 
 `If you get this image at any point of updating, you have done it well, no need to repeat.`
 
@@ -64,7 +64,7 @@ cd ocs01-test
 cargo build --release
 ```
 > Once it is done, you will get a `Finished` line like in the picture below and the line where you can paste commands returns so you can continue with the guide.
-<img width="330" height="160" alt="Screenshot 2025-07-30 140902" src="https://github.com/user-attachments/assets/10f5590f-3718-476e-9d46-6001b9bef101" />
+<img width="330" height="160" alt="build complete" src="https://github.com/user-attachments/assets/10f5590f-3718-476e-9d46-6001b9bef101" />
 
 ### Setup the files to test
 Copy the Contract interface
@@ -94,16 +94,16 @@ While still in `/ocs01-test/` folder or directory, run this `start` command
 ```
 You should get the below interface.
 
-<img width="400" height="300" alt="Screenshot 2025-07-30 102219" src="https://github.com/user-attachments/assets/0faa4e11-2d94-4b7c-99a9-fba0c1fcddd5" />
+<img width="400" height="300" alt="client interface" src="https://github.com/user-attachments/assets/0faa4e11-2d94-4b7c-99a9-fba0c1fcddd5" />
 
 If it fails and gives you this error below, just rerun the `start` command again, it would come up.
 
-<img width="300" height="100" alt="Screenshot 2025-07-30 102559" src="https://github.com/user-attachments/assets/9b242354-371c-4e6c-a505-4ba53f13c4ed" />
+<img width="300" height="100" alt="client error" src="https://github.com/user-attachments/assets/9b242354-371c-4e6c-a505-4ba53f13c4ed" />
 
 If yours has worked, now get testing 🔥🔥🔥
 `choice`: `3` and enter. Your screen should look like this.
 
-<img width="400" height="130" alt="Screenshot 2025-07-30 103009" src="https://github.com/user-attachments/assets/6db8b402-c033-408d-982b-6a4c3ccc18a1" />
+<img width="400" height="130" alt="task3 completion" src="https://github.com/user-attachments/assets/6db8b402-c033-408d-982b-6a4c3ccc18a1" />
 
 This task `3` helps you to secure the reward or main quest of this test phase. `3` gives you the 1 test token allocated once to any address that does this task.
 
