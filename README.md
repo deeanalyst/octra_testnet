@@ -36,14 +36,24 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ---
+
+> If you are using the same terminal from the update to do task 3 do this.
+
+```
+deactivate
+```
+Now run this to leave any previous directories you were inside
+```
+cd ~
+```
+---
+
 ### Task 3
 Install Rust if you don't already have it.
 ```
-cd ~
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
 ```
-
 #### Build `ocs01-test` from Source
 Build from source
 ```
