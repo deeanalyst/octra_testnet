@@ -26,7 +26,7 @@ git pull origin main
 
 `If you get this image at any point of updating, you have done it well, no need to repeat.`
 
-You can send interact with my wallet too `octAv8GZbQCcYr2k8WkJ2kABv4kQirFRuXBDc7UCdR8hUtKt`send some tokens while encrypted and not, I will send back.
+You can also interact with my wallet `octAv8GZbQCcYr2k8WkJ2kABv4kQirFRuXBDc7UCdR8hUtKt`, send some tokens while encrypted and not, I will send back.
 
 Install requirements:
 ```
