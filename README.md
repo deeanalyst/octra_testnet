@@ -106,8 +106,13 @@ If yours has worked, now get testing 🔥🔥🔥
 
 <img width="400" height="130" alt="task3 completion" src="https://github.com/user-attachments/assets/6db8b402-c033-408d-982b-6a4c3ccc18a1" />
 
-This task `3` helps you to secure the reward or main quest of this test phase. `3` gives you the 1 test token allocated once to any address that does this task.
+#### Troubleshooting
+If you get the error in the image below, run the command under the image.
+<img width="400" height="300" alt="build_error" src="https://github.com/user-attachments/assets/d5ba455e-9a07-48b6-b978-48394ff504ad" />
 
+---
+
+This task `3` helps you to secure the reward or main quest of this test phase. `3` gives you the 1 test token allocated once to any address that does this task.
 Now you can randomly make any other `choice` from the list between `0-14` including `3`. Run as much as you can and welcome to the future of FHEs.
 gOctra! 🎉
 
