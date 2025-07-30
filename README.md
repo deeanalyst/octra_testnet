@@ -110,10 +110,12 @@ If yours has worked, now get testing 🔥🔥🔥
 If you get the error in the image below, run the command under the image.
 
 <img width="400" height="300" alt="build_error" src="https://github.com/user-attachments/assets/d5ba455e-9a07-48b6-b978-48394ff504ad" />
+
 ```
 sudo apt update
 sudo apt install pkg-config libssl-dev
 ```
+
 > After this, you can build again using `cargo build --release`
 ---
 
