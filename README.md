@@ -75,14 +75,18 @@ While still in `/ocs01-test/` folder or directory, run this `start` command
 ./ocs01-test
 ```
 You should get the below interface.
+
 <img width="400" height="300" alt="Screenshot 2025-07-30 102219" src="https://github.com/user-attachments/assets/0faa4e11-2d94-4b7c-99a9-fba0c1fcddd5" />
 
 If it fails and gives you this error below, just rerun the `start` command again, it would come up.
+
 <img width="300" height="100" alt="Screenshot 2025-07-30 102559" src="https://github.com/user-attachments/assets/9b242354-371c-4e6c-a505-4ba53f13c4ed" />
 
 If yours has worked, now get testing 🔥🔥🔥
-`choice`: `3` and enter. Your screen should look like this
+`choice`: `3` and enter. Your screen should look like this.
+
 <img width="400" height="130" alt="Screenshot 2025-07-30 103009" src="https://github.com/user-attachments/assets/6db8b402-c033-408d-982b-6a4c3ccc18a1" />
+
 This task `3` helps you to secure the reward or main quest of this test phase. `3` gives you the 1 test token allocated once to any address that does this task.
 
 Now you can randomly make any other `choice` from the list between `0-14` including `3`. Run as much as you can and welcome to the future of FHEs.
