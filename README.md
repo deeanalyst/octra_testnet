@@ -82,7 +82,7 @@ Copy the binary from `target` folder in `ocs01-test` to the `ocs01-test` main di
 cp ~/ocs01-test/target/release/ocs01-test ~/ocs01-test/
 ```
 
-`NB`: `These three (3) files must be in the same directory (~/ocs01-test/) for them to work together.
+`NB`: These three (3) files must be in the same directory (~/ocs01-test/) for them to work together.
 
 Confirm using the command `ls -l` or `ls -a` while in the /ocs01-test/.
 If you are not sure you are in the folder run this command `cd && cd ocs01-test then run `ls -l` or `ls -a`.
