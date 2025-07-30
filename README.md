@@ -54,6 +54,8 @@ Install Rust if you don't already have it.
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
 ```
+You will be prompted to proceed, just hit `Enter` to use default installation.
+
 #### Build `ocs01-test` from Source
 Build from source
 ```
