@@ -21,7 +21,9 @@ git pull origin main
 git stash
 git pull origin main
 ```
+
 <img width="400" height="100" alt="Screenshot 2025-07-30 100639" src="https://github.com/user-attachments/assets/bb8789a1-1b37-4aca-92a7-19117d53dc42" />
+
 `If you get this image at any point of updating, you have done it well, no need to repeat.`
 
 Install requirements:
